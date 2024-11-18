@@ -1,0 +1,7 @@
+#ignore swap files
+*.swp
+*.pdf
+.idea*
+.DS_Store
+*.secret
+.git
