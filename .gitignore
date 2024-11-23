@@ -3,7 +3,9 @@
 *.pdf
 .idea*
 *.secret
-./*/Z_SOURCE
+
+#ignore source dirs
+**/Z_SOURCE
 
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
