@@ -1,6 +1,7 @@
 #ignore swap files
 *.swp
 *.pdf
+**/*.pdf
 .idea*
 *.secret
 
