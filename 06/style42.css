@@ -1,0 +1,20 @@
+/*4. The text should be center aligned.*/
+* {text-align: center}
+
+/* 2. The text should be white and background black. */
+html {background-color: black; color: white;}
+
+/* 5. Adjust the margins so that the content is centered on the page. */
+.frame {
+    margin-top: 100px;
+    align-content: center;
+    font-family: "Libre Baskerville", serif;
+}
+
+/* 3. (image) should have a 5px white border. */
+.pic {border: 5px solid white;}
+
+/* 6. make the h1 uppercase with CSS. */
+h1 {
+    text-transform: uppercase;
+}
