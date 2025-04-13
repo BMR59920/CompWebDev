@@ -1,4 +1,4 @@
-# Section 10 : Grid CSS
+# Section 11 : Bootstrap CSS
 ## Lesson 64 : About Bootstrap
 
 ## Lesson 65 : Bootstrap Layout
